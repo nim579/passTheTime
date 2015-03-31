@@ -1,0 +1,25 @@
+{
+  "name": "passTheTime",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nim579/passTheTime",
+  "authors": [
+    "Nick Iv <studio@nim579.ru>"
+  ],
+  "description": "App to pass the time",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.2",
+    "jquery": "~2.1.3",
+    "raphael": "~2.1.4"
+  }
+}
