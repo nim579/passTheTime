@@ -46,3 +46,14 @@ html, body {
     max-width: 1000px;
     margin: 0 auto;
 }
+
+@media screen and (max-width:400px){
+    html, body {
+        min-width: 250px;
+    }
+    .time {
+        min-width: 250px;
+        font-size: 3em;
+    }
+}
+
